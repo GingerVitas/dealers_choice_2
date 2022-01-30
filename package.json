@@ -1,0 +1,27 @@
+{
+  "name": "dealers-choice-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dc2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start:dev": "nodemon dc2.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GingerVitas/dealers_choice_2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GingerVitas/dealers_choice_2/issues"
+  },
+  "homepage": "https://github.com/GingerVitas/dealers_choice_2#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "volleyball": "^1.5.1"
+  }
+}
